@@ -1,5 +1,5 @@
 ### DATA CENTER CHECKLIST
-> Dated: 01-10-2024
+> Dated: 02-10-2024
 
 
 | ISP | LINKS | STAUTS |
@@ -9,8 +9,8 @@
 |Supernet | DR-Data | Up |
 |Mobilink | Primary Link | Up |
 |Mobilink | Secondary Link | Up |
-|Mobilink | DR-Data | Up |
-|Mobilink | DR-Internet | Up |
+|Mobilink | DR-Data | Down |
+|Mobilink | DR-Internet | Down |
 |Mobilink | Dark Fiber | Up |
 |Multinet | Primary Link | Up |
 |Multinet | Secondary Link | Up |
@@ -34,13 +34,13 @@
 | RACKS | TEMPERATUTRE°C | STAUTS |
 | --- | --- | --- |
 |HP Rack 1 | 21.20 °C | ✓ |
-|HP Rack 2 | 20.90 °C | ✓ |
+|HP Rack 2 | 21.00 °C | ✓ |
 |HP Rack 3 | 21.20 °C | ✓ |
-|HP Rack 4 | 21.30 °C | ✓ |
-|IBM Rack 1 | 21.60 °C | ✓ |
-|IBM Rack 2 | 21.60 °C | ✓ |
-|IBM Rack 3 | 28.50 °C | ✓ |
-|IBM Rack 4 | 22.60 °C | ✓ |
+|HP Rack 4 | 21.40 °C | ✓ |
+|IBM Rack 1 | 21.70 °C | ✓ |
+|IBM Rack 2 | 21.50 °C | ✓ |
+|IBM Rack 3 | 28.70 °C | ✓ |
+|IBM Rack 4 | 22.50 °C | ✓ |
 
 
 ---
@@ -48,9 +48,9 @@
 ## MDA & STAGING COOLING REPORT
 | RACKS | TEMPERATUTRE°C | STAUTS |
 | --- | --- | --- |
-|Primary Rack | 21.90 °C | ✓ |
-|Secondary Rack | 21.00 °C | ✓ |
-|Staging | 20.62 °C | ✓ |
+|Primary Rack | 21.80 °C | ✓ |
+|Secondary Rack | 22.00 °C | ✓ |
+|Staging | 21.25 °C | ✓ |
 
 
 ---
@@ -58,5 +58,5 @@
 ## DATA CENTER UPS COOLING REPORT
 | RACKS | TEMPERATUTRE°C | STAUTS |
 | --- | --- | --- |
-|DC UPS | 26.37 °C | ✓ |
-|BUILDING UPS | 20.50 °C | ✓ |
+|DC UPS | 26.06 °C | ✓ |
+|BUILDING UPS | 21.50 °C | ✓ |
