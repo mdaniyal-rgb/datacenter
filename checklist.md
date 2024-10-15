@@ -1,5 +1,5 @@
 ### DATA CENTER CHECKLIST
-> Dated: 09-10-2024
+> Dated: 15-10-2024
 
 
 | ISP | LINKS | STAUTS |
@@ -33,14 +33,14 @@
 ## PRECISION COOLING REPORT
 | RACKS | TEMPERATUTRE°C | STAUTS |
 | --- | --- | --- |
-|HP Rack 1 | 21.00 °C | ✓ |
-|HP Rack 2 | 20.70 °C | ✓ |
-|HP Rack 3 | 21.60 °C | ✓ |
-|HP Rack 4 | 23.70 °C | ✓ |
-|IBM Rack 1 | 22.10 °C | ✓ |
-|IBM Rack 2 | 22.20 °C | ✓ |
-|IBM Rack 3 | 28.70 °C | ✓ |
-|IBM Rack 4 | 23.50 °C | ✓ |
+|HP Rack 1 | 17.50 °C | ✓ |
+|HP Rack 2 | 18.10 °C | ✓ |
+|HP Rack 3 | 18.30 °C | ✓ |
+|HP Rack 4 | 20.20 °C | ✓ |
+|IBM Rack 1 | 21.90 °C | ✓ |
+|IBM Rack 2 | 22.60 °C | ✓ |
+|IBM Rack 3 | 21.80 °C | ✓ |
+|IBM Rack 4 | 22.10 °C | ✓ |
 
 
 ---
@@ -48,9 +48,9 @@
 ## MDA & STAGING COOLING REPORT
 | RACKS | TEMPERATUTRE°C | STAUTS |
 | --- | --- | --- |
-|Primary Rack | 24.80 °C | ✓ |
-|Secondary Rack | 21.20 °C | ✓ |
-|Staging | 20.68 °C | ✓ |
+|Primary Rack | 20.80 °C | ✓ |
+|Secondary Rack | 21.80 °C | ✓ |
+|Staging | 18.68 °C | ✓ |
 
 
 ---
@@ -58,5 +58,5 @@
 ## DATA CENTER UPS COOLING REPORT
 | RACKS | TEMPERATUTRE°C | STAUTS |
 | --- | --- | --- |
-|DC UPS | 25.20 °C | ✓ |
-|BUILDING UPS | 26.40 °C | ✓ |
+|DC UPS | 22.30 °C | ✓ |
+|BUILDING UPS | 23.40 °C | ✓ |
